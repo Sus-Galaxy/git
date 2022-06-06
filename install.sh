@@ -1,3 +1,2 @@
 sudo apt install php -y
-sudo apt install shellinabox
-shellinaboxd
+php -S localhost:8080
